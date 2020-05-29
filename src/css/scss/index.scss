@@ -1,0 +1,14 @@
+$primary-color: #264653;
+$secondary-color: #2A9D8F;
+$accent-1: #E9C46A;
+$accent-2: #F4A261;
+$accent-3: #E76F51;
+
+body{
+    background-color: $primary-color;
+}
+
+#main-nav{
+    background-color: $secondary-color;
+    color: $accent-1;
+}
