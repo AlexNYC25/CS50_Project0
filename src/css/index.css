@@ -1,0 +1,20 @@
+body {
+  background-color: #264653;
+  color: #E9C46A;
+}
+
+#main-nav {
+  background-color: #2A9D8F;
+  color: #E9C46A;
+}
+#main-nav .logo-link {
+  color: #E9C46A !important;
+}
+#main-nav .navbar-text {
+  float: right;
+}
+#main-nav .p-2 {
+  color: #F4A261;
+}
+
+/*# sourceMappingURL=index.css.map */

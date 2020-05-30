@@ -6,9 +6,22 @@ $accent-3: #E76F51;
 
 body{
     background-color: $primary-color;
+    color: $accent-1;
 }
 
 #main-nav{
     background-color: $secondary-color;
     color: $accent-1;
+
+    .logo-link{
+        color: $accent-1 !important;
+    }
+    
+    .navbar-text{
+        float: right;
+    }
+
+    .p-2{
+        color: $accent-2;
+    }
 }
