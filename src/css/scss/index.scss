@@ -25,3 +25,9 @@ body{
         color: $accent-2;
     }
 }
+
+@media screen and (max-width: 600px){
+    .p-2{
+        color: $accent-3;
+    }
+}

@@ -17,4 +17,10 @@ body {
   color: #F4A261;
 }
 
+@media screen and (max-width: 600px) {
+  .p-2 {
+    color: #E76F51;
+  }
+}
+
 /*# sourceMappingURL=index.css.map */
